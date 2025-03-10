@@ -4,7 +4,7 @@ This package provides a simple way to enable and disable maintenance mode for yo
 
 ## Version
 
-[![Latest Stable Version](https://poser.pugx.org/azmolla/maintenance-mode-laravel/v/stable)](https://packagist.org/packages/azmolla/maintenance-mode-laravel)
+[![Latest Stable Version](https://poser.pugx.org/azmolla/maintenance-mode/v/stable)](https://packagist.org/packages/azmolla/maintenance-mode)
 
 ## Installation
 
