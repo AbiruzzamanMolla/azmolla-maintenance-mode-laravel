@@ -1,0 +1,38 @@
+{
+    "name": "azmolla/maintenance-mode",
+    "description": "Laravel Maintenance Mode Extension with Database Configuration",
+    "type": "library",
+    "keywords": [
+        "laravel",
+        "maintenance",
+        "mode",
+        "database"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Azmolla/maintenance-mode.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Azmolla/maintenance-mode/issues"
+    },
+    "homepage": "https://github.com/Azmolla/maintenance-mode",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Azmolla\\MaintenanceMode\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Azmolla\\MaintenanceMode\\MaintenanceModeServiceProvider"
+            ]
+        }
+    },
+    "require": {
+        "php": "^8.0||^8.1||^8.2",
+        "laravel/framework": "^9.0|^10.0|^11.0|^12.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
