@@ -19,12 +19,12 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/AbiruzzamanMolla/azmolla-maintenance-mode-laravel.git"
+        "url": "https://github.com/AbiruzzamanMolla/maintenance-mode-laravel.git"
     },
     "bugs": {
-        "url": "https://github.com/AbiruzzamanMolla/azmolla-maintenance-mode-laravel/issues"
+        "url": "https://github.com/AbiruzzamanMolla/maintenance-mode-laravel/issues"
     },
-    "homepage": "https://github.com/AbiruzzamanMolla/azmolla-maintenance-mode-laravel",
+    "homepage": "https://github.com/AbiruzzamanMolla/maintenance-mode-laravel",
     "license": "MIT",
     "autoload": {
         "psr-4": {

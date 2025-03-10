@@ -2,6 +2,10 @@
 
 This package provides a simple way to enable and disable maintenance mode for your Laravel application.
 
+## Version
+
+[![Latest Stable Version](https://poser.pugx.org/azmolla/maintenance-mode-laravel/v/stable)](https://packagist.org/packages/azmolla/maintenance-mode-laravel)
+
 ## Installation
 
 You can install the package via composer:
@@ -65,6 +69,12 @@ The package provides a command for publishing resources:
 ```sh
 php artisan maintenance-mode:publish
 ```
+
+## Change Log
+
+### v1.0.0
+
+- Initial release
 
 ## License
 
